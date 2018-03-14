@@ -1,0 +1,25 @@
+{
+  "name": "geranium-container",
+  "version": "0.5.0",
+  "description": "ts container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anetegithub/geranium-container.git"
+  },
+  "keywords": [
+    "ts",
+    "ioc",
+    "container",
+    "di"
+  ],
+  "author": "anete.anetes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anetegithub/geranium-container/issues"
+  },
+  "homepage": "https://github.com/anetegithub/geranium-container#readme"
+}
